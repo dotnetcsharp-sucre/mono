@@ -10,4 +10,5 @@ Intercambiar todo tipo de conocimiento y experiencia relacionado a .Net
 * DESKTOP
     - 1.- open form
     - 2.- asp.net
+    - 3.- file.io
 
